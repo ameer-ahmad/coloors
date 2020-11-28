@@ -198,6 +198,10 @@ input[type="range"] {
     padding-inline-start: 0.5rem;
 }
 
+.close-library {
+    border-top-right-radius: 0rem;
+}
+
 .submit-save {
     margin: 2rem;
     padding: 1rem 3rem;
